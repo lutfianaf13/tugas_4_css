@@ -1,0 +1,33 @@
+button{
+	font-size: 30px;
+	color: #bda60f;
+}
+
+input{
+	font-size: 14px;
+}
+
+.i_satu{
+	border: 1px solid;
+	font-family: Arial, sans-serif;
+}
+
+.i_dua{
+	border: 1px solid;
+	font-family: Arial, sans-serif;
+}
+
+.i_tiga{
+	border: 1px solid;
+	font-family: Arial, sans-serif;
+}
+
+.i_empat{
+	border: 1px solid;
+	font-family: Arial, sans-serif;
+}
+
+.i_lima{
+	border: 1px solid;
+	font-family: Arial, sans-serif;
+}
